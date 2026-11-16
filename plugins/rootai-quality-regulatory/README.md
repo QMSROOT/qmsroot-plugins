@@ -77,8 +77,7 @@ The summary is for convenience; [LICENSE.md](LICENSE.md) governs. For permission
 ## Contents
 ```
 .claude-plugin/plugin.json        plugin manifest
-.claude-plugin/icon.png           icon
-skills/rootai/         consultant core + shared references
+skills/rootai/                    consultant core + shared references
 skills/capa-rca/                  CAPA and root cause
 skills/audit-finding-response/    audit finding responses
 skills/complaint-handling/        complaints and reportability triage
