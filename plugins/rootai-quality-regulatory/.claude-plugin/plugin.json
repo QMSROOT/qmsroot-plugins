@@ -1,0 +1,13 @@
+{
+  "name": "rootai-quality-regulatory",
+  "displayName": "ROOTAi Quality & Regulatory",
+  "version": "0.1.2",
+  "description": "A QA/RA consultant for Claude: CAPA and root cause, audit findings and readiness, complaints, PMS and vigilance, supplier quality, risk management and sourced regulatory answers. Asks for evidence, challenges assumptions, labels what is verified, and leaves decisions with you.",
+  "author": {
+    "name": "QMSROOT"
+  },
+  "homepage": "https://qmsroot.com",
+  "repository": "https://github.com/QMSROOT/qmsroot-plugins",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": ["quality assurance", "regulatory affairs", "CAPA", "root cause analysis", "audit", "complaints", "vigilance", "PMS", "supplier quality", "risk management", "ISO 13485", "EU MDR", "FDA", "medical devices"]
+}
